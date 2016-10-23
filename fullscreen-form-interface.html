@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hackathon Practice - Fullscreen Form Interface Demo</title>
+	<link rel="stylesheet" type="text/css" href="fullscreen-form-interface.css">
+</head>
+<body>
+	<div id="container">
+		<h1>Project Worksheet</h1>
+		<a href="#">Go back to previous demo.  This is a demo for a fullscreen form</a>
+		<form>
+			<ol>
+				<li>
+					<label for="name">What's your name? </label>
+					<input type="text" name="name" value="Dean Moriarty">
+				</li>
+				<li>
+					<label for="email">What's your email? </label>
+					<input type="email" name="email" value="dean@road.us">
+				</li>
+				<li>
+					<label for="website">What's your priority for your new website? </label>
+					<br>
+					<input type="radio" name="sell"> Sell things
+					<input type="radio" name="famous"> Become Famous
+					<input type="radio" name="mobile"> Mobile market
+				</li>
+				<li>
+					<label for="color">Choose a color for your website.  Pick a color</label>
+					<select name="color">
+						<option value="white">White</option>
+						<option value="red">Red</option>
+						<option value="blue">Blue</option>
+						<option value="green">Green</option>
+					</select>
+				</li>
+				<li>
+					<label for="description">Describe how you imagine your nes website</label>
+					<textarea name="desc-your-website">Describe here</textarea>
+				</li>
+				<li>
+					<label for="budget">What's your budget? </label>
+					<input type="number" name="budget" min="3" max="6" value="1000">
+				</li>
+				<button name="button">Send answers		</button>
+			</ol>
+		</form>
+	</div>
+</body>
+</html>

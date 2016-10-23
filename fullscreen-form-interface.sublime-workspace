@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-attachment"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"i",
+				"list-item"
+			],
+			[
+				"BA",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text-d",
+				"text-decoration"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"o",
+				"none"
+			],
+			[
+				"t",
+				"inset"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"TEX",
+				"text-align"
+			],
+			[
+				"inL",
+				"inline-block"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"li",
+				"linear"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"FO",
+				"font-size-adjust"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"mr",
+				"margin-top"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"ff",
+				"ff0026"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"ma",
+				"maxlength	Attr"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"si",
+				"box-sizing"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"BOX",
+				"box-sizing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fullscreen-form-interface.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 321.0,
+		"last_filter": "package control: install",
+		"selected_items":
+		[
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.packages_path()",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lqdel/OneDrive/sandbox/hackathon-practice/fullscreen-form-interface.html",
+		"/C/Users/lqdel/floobits/welcome.md",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-credit-debit-card-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/index.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/list-of-forms.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/list-of-forms.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-credit-debit-card-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-questionnaire.css",
+		"/C/Users/lqdel/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-login-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-shipping-and-billing-address-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-shipping-and-billing-address-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-login-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-search-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-search-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-scheduling-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-questionnaire.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-color-building-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-color-building-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-color-building-form.",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-scheduling-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-signup-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/a-signup-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/home.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/profiles/profile.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/Forms.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/forms-and-inputs/Forms.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/buttons/button.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/buttons/button.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/the-calculator/the-calculator.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/the-calculator/the-calculator.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/profiles/profile.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/product-listing-page/product-listing-page.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/product-listing-page/product-listing-page.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/profiles/profile.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/profiles/profile.css",
+		"/C/Users/lqdel/OneDrive/sandbox/css-pa2-button-web-component/button.html",
+		"/C/Users/lqdel/OneDrive/sandbox/css-pa2-button-web-component/button.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/button.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/multi-page-web-site/button.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page-5.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/profiles/index.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page-4.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page-5.html",
+		"/C/Users/lqdel/OneDrive/sandbox/css-pa3-profiles-md-sidebar/sidebar.html",
+		"/C/Users/lqdel/OneDrive/sandbox/css-pa3-profiles-md-sidebar/index.html",
+		"/C/Users/lqdel/OneDrive/sandbox/css-pa3-profiles-md-sidebar/profile.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page-1.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page-3.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page-3.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page-4.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page-2.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-search-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/product-listing-page/product-listing-page-2.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/the-calculator/the-calculator.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/the-calculator/the-calculator.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-signup-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-search-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-signup-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-questionnaire.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-questionnaire.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-scheduling-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-color-building-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-scheduling-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-color-building-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-login-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-login-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-credit-debit-card-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-credit-debit-card-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-shipping-and-billing-address-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-shipping-and-billing-address-form.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/buttons/index.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/buttons/button.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/profiles/sidebar.html",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/profiles/sidebar.css",
+		"/C/Users/lqdel/OneDrive/sandbox/learning-web-components/components/forms-and-inputs/a-serach-form.css",
+		"/C/Users/lqdel/OneDrive/sandbox/introduction-to-javascript-and-modern-web-development/introduction-to-CSS/css-exercise-set7b.css",
+		"/C/Users/lqdel/OneDrive/sandbox/introduction-to-javascript-and-modern-web-development/introduction-to-CSS/css-exercise-set7b.html",
+		"/C/Users/lqdel/OneDrive/sandbox/introduction-to-javascript-and-modern-web-development/introduction-to-CSS/css-exercise-set7.html",
+		"/C/Users/lqdel/OneDrive/sandbox/introduction-to-javascript-and-modern-web-development/introduction-to-CSS/css-exercise-set7.css",
+		"/C/Users/lqdel/OneDrive/sandbox/introduction-to-javascript-and-modern-web-development/introduction-to-CSS/css-exercise-set6b.html",
+		"/C/Users/lqdel/OneDrive/sandbox/introduction-to-javascript-and-modern-web-development/introduction-to-CSS/css-exercise-set6.css",
+		"/C/Users/lqdel/OneDrive/sandbox/introduction-to-javascript-and-modern-web-development/introduction-to-CSS/css-exercise-set6.html",
+		"/C/Users/lqdel/OneDrive/sandbox/introduction-to-javascript-and-modern-web-development/introduction-to-CSS/css-exercise-set4.css",
+		"/C/Users/lqdel/Documents/md/css/md-css-exer-web-page-with-6-elements",
+		"/C/Users/lqdel/OneDrive/sandbox/introduction-to-javascript-and-modern-web-development/introduction-to-CSS/css-exercise-set6-1.html"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"600px",
+			"ho",
+			";\n",
+			"%;\n",
+			"activ",
+			"2em",
+			"li",
+			";\n",
+			"border",
+			";\n",
+			"cart-table",
+			"%;\n",
+			"grey",
+			"<ul class=\"price\">",
+			"id=\"added-to-cart-",
+			"img",
+			"prod-img",
+			"<li class=\"header\">",
+			"<a href=\"#\">",
+			"javascript:void(0)",
+			"class=\"price-desc-list\"",
+			"<a href=\"#\">",
+			"ul",
+			">Add to cart",
+			"h2",
+			"<button",
+			"button",
+			"stastic",
+			"right",
+			"80%",
+			"1200px",
+			"2000px",
+			"h3",
+			"%;\n",
+			"<li>",
+			"<li>$",
+			"h4",
+			"nav",
+			"src=\"#\"",
+			"<div",
+			"<button></button>",
+			"80px",
+			";\n",
+			"step=\"5\">",
+			"<label>",
+			"</h2>",
+			"<h2>",
+			"label ",
+			"type=\"text\"",
+			"1.5em",
+			"\">",
+			":",
+			"h3",
+			";\n",
+			"2%"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"button-list",
+			"<ul class=\"prod-list\">",
+			"class=\"added-to-cart\" id=\"added-to-cart-",
+			"img class=\"prod-img\"",
+			"prod-link",
+			"<li class=\"prod-name\">",
+			"<a href=\"#\" class=\"prod-img\">",
+			"#",
+			"class=\"price-desc-list\" id=\"price-desc-list\"",
+			"<a href=\"#\" class=\"special-request\">",
+			"ul class=\"price-desc-list\"",
+			" class=\"button-link\">Add to cart",
+			"h4",
+			"<button class=\"button\"",
+			"button class=\"button\"",
+			"tacy",
+			"100%",
+			"1200px",
+			"p",
+			"<li class=\"desc\">",
+			"<li class=\"price\">$",
+			"h5",
+			"aside",
+			"src=\"http://placehold.it/140x100\"",
+			"<div class=\"prod-list float-left w20\"",
+			"<button>Add to cart</button>",
+			"step=\"5\" class=\"range w25\">",
+			"<label class=\"label w25\">",
+			"</label>",
+			"<label>",
+			"label class=\"lable\"",
+			"type=\"text\" class=\"label\"",
+			"type=\"text\" class=\"label\" ",
+			"1em",
+			"\"><br>",
+			":<br>",
+			"h2",
+			"1%"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fullscreen-form-interface.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fullscreen-form-interface.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
