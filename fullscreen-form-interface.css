@@ -10,3 +10,39 @@ body {
 	overflow: hidden;
 	overflow-y: scroll;
 }
+
+a {
+	text-decoration: none;
+}
+
+i {
+	color: #bfbfbf;
+}
+
+p {
+	font-size: .35em;
+}
+
+#info-01 {
+	visibility: hidden;
+}
+
+#info-01:target {
+	visibility: unset;
+}
+
+#info-02 {
+	visibility: hidden;
+}
+
+#info-02:target {
+	visibility: unset;
+}
+
+#info-03 {
+	visibility: hidden;
+}
+
+#info-03:target {
+	visibility: unset;
+}
